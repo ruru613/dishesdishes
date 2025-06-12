@@ -1,0 +1,14 @@
+streamlit==1.45.1
+pandas==2.2.2
+numpy==1.26.4
+fastai==2.8.2
+scikit-surprise==1.1.4
+matplotlib==3.9.0
+pillow==10.3.0
+scikit-learn==1.6.1
+openpyxl==3.1.5
+joblib==1.5.1
+torch==2.2.2
+torchvision==0.17.2
+
+
